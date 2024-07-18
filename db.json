@@ -1,0 +1,154 @@
+{
+  "seller": [
+    {
+      "id": "3c8e",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "24e6",
+      "name": "rohit",
+      "password": "1111",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "07b4",
+      "name": "rohit",
+      "password": "1111",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "1ff5",
+      "name": "rahul",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "b483",
+      "name": "rahul",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "c97f",
+      "name": "rahul",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "d8e6",
+      "name": "ROHIT KUMAR",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "c121",
+      "name": "ROHIT KUMAR",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "cc20",
+      "name": "rahul",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "1534",
+      "name": "rahul",
+      "password": "1111",
+      "email": "rahul@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "name": "dell laptop",
+      "price": "76000",
+      "category": "laptop",
+      "color": "Black",
+      "description": "speed is very good",
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_3.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=573&qlt=100,1&resMode=sharp2&size=573,402&chrss=full",
+      "id": "2084"
+    },
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://5.imimg.com/data5/EZ/BB/SI/SELLER-92529419/samsung-galaxy-m40-midnight-blue-phone-1000x1000.jpg",
+      "id": "1"
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "2"
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": "4"
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Truck",
+      "price": "200",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": "6"
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": "7"
+    }
+  ],
+  "user": [
+    {
+      "id": "e65d",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "423c",
+      "name": "Rohit",
+      "email": "rohit@gmail.com",
+      "password": "2222"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
